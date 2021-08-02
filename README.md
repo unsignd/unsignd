@@ -1,7 +1,7 @@
 <div align=center>
-  <h1>Im Unsignd! 👋</h1>
+  <h1>Welcome 👋</h1>
   
-  ### A Student Developer Interested In Programming And Design.
+  ### A Student Developer Interested In Programming And Design
 </div>
 <h2 align="center">Stats</h2>
 <div align="center">
