@@ -3,11 +3,6 @@
   
   ### A Student Developer Interested In Programming And Design
 </div>
-<h2 align="center">Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unsignd&theme=dark"/></a>&nbsp 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsignd&layout=compact&theme=dark"/></a>
-</div>
 <h2 align="center">Skills</h2>
 <div align="center">
   
