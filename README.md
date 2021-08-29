@@ -26,6 +26,6 @@
 <div align="center">
 <b>
   
-[ReadCV](https://read.cv/unsignd)&nbsp;&nbsp;&nbsp;[Discord](https://discord.com/users/476152575385927711)&nbsp;&nbsp;&nbsp;[Behance](https://www.behance.net/error99998eaa7)
+[ReadCV](https://read.cv/unsignd)&nbsp;&nbsp;&nbsp;[Behance](https://www.behance.net/error99998eaa7)&nbsp;&nbsp;&nbsp;[Discord](https://discord.com/users/476152575385927711)
 </b>
 </div>
