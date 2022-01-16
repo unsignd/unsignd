@@ -10,10 +10,9 @@ https://unsignd.me
 </div>
 
 <br>
-<br>
 
 <div align="center">
-  <h2>Contacts</h2>
+  <h3>Contacts</h3>
   
   [unsigndid@gmail.com](mailto:unsigndid@gmail.com)<br>[unsigned.](https://discord.gg/sHnsRT5J5K)
  </div>
