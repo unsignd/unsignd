@@ -8,3 +8,12 @@
 https://unsignd.me
 </b>
 </div>
+
+<br>
+<br>
+
+<div align="center">
+  <h2>Contacts</h2>
+  
+  [unsigndid@gmail.com](mailto:unsigndid@gmail.com)<br>[unsigned.](https://discord.gg/sHnsRT5J5K)
+ </div>
