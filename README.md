@@ -17,10 +17,4 @@ https://unsignd.me
   <h3>Contacts</h3>
   
   [unsigndid@gmail.com](mailto:unsigndid@gmail.com)<br>[unsigned.](https://discord.gg/sHnsRT5J5K)
-  
-  <br>
-  
-  <h3>Account</h3>
-  
-  [Toss](https://toss.me/unsignd)
  </div>
