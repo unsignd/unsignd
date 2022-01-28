@@ -16,5 +16,5 @@ https://unsignd.me
 <div align="center">
   <h3>Contacts</h3>
   
-  [unsigndid@gmail.com](mailto:unsigndid@gmail.com)<br>[unsigned.](https://discord.gg/sHnsRT5J5K)
+  [unsigndid@gmail.com](mailto:unsigndid@gmail.com)<br>[Discord](https://discord.gg/sHnsRT5J5K)
  </div>
