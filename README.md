@@ -16,5 +16,5 @@ https://unsignd.me
   <h3>Contacts</h3>
   
   - [unsigndid@gmail.com](mailto:unsigndid@gmail.com)
-  - [Discord](https://discord.gg/sHnsRT5J5K)
+  - [Discord Server](https://discord.gg/sHnsRT5J5K)
  </div>
