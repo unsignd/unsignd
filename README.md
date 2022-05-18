@@ -13,6 +13,13 @@ https://unsignd.me
 <br>
 <br>
 <div>
+  <h3>Using Devices</h3>
+  
+  - MacBook Pro 14 inch
+  - Lg Gram 2020 Model
+  - iPhone 13 Pro
+  
+  <br>
   <h3>Contacts</h3>
   
   - [unsigndid@gmail.com](mailto:unsigndid@gmail.com)
