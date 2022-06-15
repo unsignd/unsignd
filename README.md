@@ -13,13 +13,6 @@ https://unsignd.me
 <br>
 <br>
 <div>
-  <h3>Devices I use</h3>
-  
-  - MacBook Pro 14 inch
-  - LG Gram 2020 Model
-  - iPhone 13 Pro
-  
-  <br>
   <h3>Links</h3>
   
   - [Youtube](https://www.youtube.com/channel/UChCaj0gX_Ow4ZlaGsC4ranA)
