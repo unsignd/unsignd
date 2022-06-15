@@ -17,7 +17,6 @@ https://unsignd.me (developing..)
   
   - [Youtube](https://www.youtube.com/channel/UChCaj0gX_Ow4ZlaGsC4ranA)
   - [Behance](https://www.behance.net/unsignd)
-  - [Istg](https://www.instagram.com/yejoooooooon)
   
   <br>
   <h3>Contacts</h3>
