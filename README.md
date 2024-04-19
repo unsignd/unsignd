@@ -1,3 +1,3 @@
 <div align="center">
-  programming is a form of art
+  <h3>programming is a form of art</h1>
 </div>
